@@ -1,1 +1,2 @@
 testando git
+agora testando timeout de cache do credential helper
